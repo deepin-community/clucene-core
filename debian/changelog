@@ -1,4 +1,4 @@
-clucene-core (2.3.3.4-deepin1) unstable;urgency=medium
+clucene-core (2.3.3.4.1-deepin1) unstable;urgency=medium
 
   *Fix build on RISC-V
 

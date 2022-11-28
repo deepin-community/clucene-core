@@ -1,3 +1,16 @@
+clucene-core (2.3.3.4-deepin1) unstable;urgency=medium
+
+  *Fix build on RISC-V
+
+ --Z8MAN8 <1468559561@qq.com> Mon,28 Nov 2022 22:44:20 +0800
+
+clucene-core (2.3.3.4+dfsg-1.1) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * 
+
+ -- root <root@67b282566c50>  Mon, 28 Nov 2022 14:43:42 +0000
+
 clucene-core (2.3.3.4+dfsg-1) unstable; urgency=medium
 
   * Update debian/copyright: clarify src/test/data/* copyright and

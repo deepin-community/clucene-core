@@ -5,3 +5,4 @@ multiarch.patch
 bug715474-no-boost-headers.patch
 bug718187-ftbfs-hurd.patch
 gcc-version.diff
+fix-gcc12-build.patch

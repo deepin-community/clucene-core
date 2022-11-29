@@ -1,0 +1,12 @@
+Description: Include missing <ctime>
+Author: Z8MAN8 <1468559561@qq.com>
+--- a/src/core/CLucene/document/DateTools.cpp
++++ b/src/core/CLucene/document/DateTools.cpp
+@@ -8,6 +8,7 @@
+ 
+ #include "DateTools.h"
+ #include "CLucene/util/Misc.h"
++#include <ctime>
+ 
+ CL_NS_USE(util)
+ CL_NS_DEF(document)
